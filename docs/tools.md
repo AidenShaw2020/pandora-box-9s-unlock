@@ -12,6 +12,7 @@ Most Python tools use the standard library (Python 3.10+ recommended). The C sou
 | `make_identity.py` | Private JSON, new header path | Validates exact ASCII hex lengths; does not print values |
 | `cardspoof.c` | Generated private `card_identity.h` | A card-specific shared library; keep the result private |
 | `cardprobe.c` | Optional sysfs base path | Reads and prints attribute lengths and exact bytes; output is private |
+| [`read_card_identity.ino`](../arduino/README.md) | ESP32, SPI microSD socket, upstream SdFat 2.3.1 | Reads physical CID/CSD/OCR/SCR; no filesystem or card-data writes |
 | `clean_db.py` | Original DB, new DB | Applies the observed catalog cleanup heuristic |
 | `families.py` | Clean DB, local ROM directories, CSV path | Family candidates; requires external DAT metadata |
 | `unique_db.py` | Clean DB, reviewed family CSV, new DB | Keeps selected representatives |

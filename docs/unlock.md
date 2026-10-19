@@ -22,6 +22,8 @@ The protection reads MMC attributes such as `cid`, `csd`, `serial`, and `scr`, p
 
 Reading a physical SD CID over SPI can help identify a card, but it did not produce the complete profile expected by this menu. In this case the vendor kernel transformed what the application saw. A shim populated with only the physical registers still crashed.
 
+The [ESP32 Arduino reader](../arduino/README.md) provides the physical SPI capture, with wiring and compile instructions. Its output is private diagnostic evidence, not a substitute for the application-visible profile.
+
 `src/cardprobe.c` prints lengths and hexadecimal bytes of attributes read through `fopen`. Compile it for the target ABI, then run it under the same environment as the menu on a working original system:
 
 ```sh

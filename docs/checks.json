@@ -10,5 +10,8 @@
   "catalog_sort": "All 3318 rows verified; exact deployed sorted DB hash reproduced; all values, IDs, schema and categories preserved",
   "documentation_links": true,
   "public_content_scan": "No actual card profile, personal Git identity, or private workstation paths found",
-  "date": "2026-10-19"
+  "date": "2026-10-19",
+  "arduino_reader_compile": "ESP32 Dev Module, ESP32 core 3.3.11, Arduino CLI 1.5.1, upstream SdFat 2.3.1: compile passed",
+  "arduino_reader_hardware": "Revised sketch not uploaded or retested against the original card",
+  "arduino_reader_scope": "Uses SdSpiCard register reads; no filesystem mount, block writes, formatting or erase calls"
 }

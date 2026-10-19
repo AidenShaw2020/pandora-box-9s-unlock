@@ -31,6 +31,7 @@ The tested software stack is vendor Linux 3.4.113, ARMv7, glibc 2.25, and a modi
 | Area | Files |
 |---|---|
 | Identity | `src/cardspoof.c`, `src/cardprobe.c`, `tools/make_identity.py` |
+| Physical SD registers | [ESP32 Arduino reader and wiring](arduino/README.md), CID/CSD/OCR/SCR |
 | Runtime | `runtime/autorun.sh`, `tools/patch_init.py`, `tools/build_p2.py` |
 | Filesystem | `tools/pandsq.py`, `tools/sqwrite.py`, `tools/extract_region.py` |
 | Catalog | `tools/clean_db.py`, `tools/families.py`, `tools/unique_db.py`, `tools/sort_db.py` |
