@@ -1,0 +1,14 @@
+/local/
+/build/
+/logs/
+/tools/dats/
+/src/card_identity.h
+__pycache__/
+*.pyc
+*.img
+*.squashfs
+*.db
+*.core
+/core
+*.so
+*.bin

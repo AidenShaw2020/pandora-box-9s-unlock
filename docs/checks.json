@@ -1,0 +1,14 @@
+{
+  "identity_header": "Exact private profile accepted; generated output ignored by Git",
+  "identity_rejects_invalid_input": true,
+  "history_reset": "Inspect mode preserves data; apply archives exact bytes and clears only recent list",
+  "image_range_extraction": "Byte-exact range; input unchanged",
+  "init_patch": "Runtime mounts and preload added; complete original menu/game loop unchanged",
+  "arm_shim": "Compiled with warnings as errors; all four exact values read under original glibc 2.25 loader",
+  "shell_syntax": "Public autorun and generated init parse under vendor BusyBox ash",
+  "rootfs_rebuild": "Vendor-format fixture retained unrelated bytes and symlink while installing init and shim",
+  "catalog_sort": "All 3318 rows verified; exact deployed sorted DB hash reproduced; all values, IDs, schema and categories preserved",
+  "documentation_links": true,
+  "public_content_scan": "No actual card profile, personal Git identity, or private workstation paths found",
+  "date": "2026-10-19"
+}
