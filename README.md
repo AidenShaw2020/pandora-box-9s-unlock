@@ -6,7 +6,7 @@ Research notes and tools for moving one Allwinner H3 Pandora Box 9S to a larger 
 
 ![The dual-player console shown in the owner's original Allegro listing](docs/images/console-overview.jpg)
 
-Product photo: [original Allegro listing, offer 17882745452](https://allegro.cz/produkt/26800-w-1-pandoras-box-9s-retro-video-arcade-station-konsola-do-tv-pc-ps3-cadee56d-e0e5-4a6b-8f29-ddbc706e31d0?offerId=17882745452). Photos belong to their respective rights holders; see [image sources](docs/images/README.md).
+Product photos originate from an Allegro listing and belong to their respective rights holders; see [image attribution](docs/images/README.md).
 
 ## What “unlock” means here
 

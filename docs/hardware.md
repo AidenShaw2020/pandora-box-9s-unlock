@@ -1,6 +1,6 @@
 # Tested hardware
 
-The original product listing identifies a two-player **Pandora Box 9S**, advertised with 26,800 games, HDMI, VGA, and USB. The photographs below are from that specific [Allegro offer](https://allegro.cz/produkt/26800-w-1-pandoras-box-9s-retro-video-arcade-station-konsola-do-tv-pc-ps3-cadee56d-e0e5-4a6b-8f29-ddbc706e31d0?offerId=17882745452), not photographs of the opened board.
+The original product listing identifies a two-player **Pandora Box 9S**, advertised with 26,800 games, HDMI, VGA, and USB. The photographs below originate from the Allegro listing used to identify this model; they are not photographs of the opened board.
 
 ![Front and underside views from the listing](images/console-detail.jpg)
 
